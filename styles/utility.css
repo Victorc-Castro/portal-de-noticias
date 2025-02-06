@@ -15,22 +15,22 @@
   gap: 16px;
 }
 
+.gap-32 {
+  gap: 32px;
+}
+
 .text-2xl {
   font: var(--h1);
 }
 
-.text-lg {
+.text-xl {
   font: var(--h2);
 }
 
-.text-2xl {
+.text-lg {
   font: var(--h3);
 }
 
 .text-sm {
   font: var(--text-sm);
-}
-
-.grid-cols-dnv {
-  grid-template-columns: repeat(4, 292px);
 }
