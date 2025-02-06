@@ -1,5 +1,5 @@
 <p align="center">
- <img src=".github/Captura de tela 2025-02-05 225126.png" alt="Foto de capa" width="100%" />
+ <img src="./assets/readme-img.png" alt="Foto de capa" width="100%" />
 </p>    
 
 ## 💻 Projeto
