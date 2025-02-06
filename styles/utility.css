@@ -30,3 +30,7 @@
 .text-sm {
   font: var(--text-sm);
 }
+
+.grid-cols-dnv {
+  grid-template-columns: repeat(4, 292px);
+}
